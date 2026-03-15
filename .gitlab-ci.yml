@@ -1,0 +1,7 @@
+pages:
+script:
+- mkdir public
+- cp portfolio.html public/index.html
+artifacts:
+paths:
+- public
